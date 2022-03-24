@@ -1,0 +1,14 @@
+/Users/yusifnazarbayov/Visual Studio/Projects/Class_Inheritance/bin/Debug/netcoreapp3.1/Class_Inheritance.deps.json
+/Users/yusifnazarbayov/Visual Studio/Projects/Class_Inheritance/bin/Debug/netcoreapp3.1/Class_Inheritance.runtimeconfig.json
+/Users/yusifnazarbayov/Visual Studio/Projects/Class_Inheritance/bin/Debug/netcoreapp3.1/Class_Inheritance.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Visual Studio/Projects/Class_Inheritance/bin/Debug/netcoreapp3.1/Class_Inheritance.dll
+/Users/yusifnazarbayov/Visual Studio/Projects/Class_Inheritance/bin/Debug/netcoreapp3.1/Class_Inheritance.pdb
+/Users/yusifnazarbayov/Visual Studio/Projects/Class_Inheritance/obj/Debug/netcoreapp3.1/Class_Inheritance.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/Class_Inheritance/obj/Debug/netcoreapp3.1/Class_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/Visual Studio/Projects/Class_Inheritance/obj/Debug/netcoreapp3.1/Class_Inheritance.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/Class_Inheritance/obj/Debug/netcoreapp3.1/Class_Inheritance.AssemblyInfo.cs
+/Users/yusifnazarbayov/Visual Studio/Projects/Class_Inheritance/obj/Debug/netcoreapp3.1/Class_Inheritance.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/Class_Inheritance/obj/Debug/netcoreapp3.1/Class_Inheritance.dll
+/Users/yusifnazarbayov/Visual Studio/Projects/Class_Inheritance/obj/Debug/netcoreapp3.1/Class_Inheritance.pdb
+/Users/yusifnazarbayov/Visual Studio/Projects/Class_Inheritance/obj/Debug/netcoreapp3.1/Class_Inheritance.genruntimeconfig.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/Class_Inheritance/bin/Debug/netcoreapp3.1/Class_Inheritance
